@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
-    "port": 25565,
+    "ip": "BlitzSmpGg.aternos.me",
+    "port": 22592,
     "version": "1.20.1",
     "try-creative": false
   },
