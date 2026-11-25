@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HypixelVSN.aternos.me",
+    "ip": "BlitzSmpGg.aternos.me",
     "port": 22592,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
