@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlitzSmpGg.aternos.me",
-    "port": 22592,
+    "ip": ".aternos.me",
+    "port": ,
     "version": "1.20.1",
     "try-creative": true
   },
